@@ -1,0 +1,11 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "a project showcase",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Andy Duncan"
+}
